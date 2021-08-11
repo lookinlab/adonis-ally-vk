@@ -20,6 +20,13 @@
     "format": "prettier --write .",
     "version": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lookinlab/adonis-ally-vk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lookinlab/adonis-ally-vk/issues"
+  },
   "keywords": [
     "adonisjs",
     "adonis-ally",

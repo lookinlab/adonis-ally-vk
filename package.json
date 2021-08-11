@@ -20,6 +20,7 @@
     "format": "prettier --write .",
     "version": "npm run build"
   },
+  "typings": "./build/standalone.d.ts",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/lookinlab/adonis-ally-vk.git"

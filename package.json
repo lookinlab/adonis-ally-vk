@@ -1,7 +1,7 @@
 {
   "name": "adonis-ally-vk",
   "version": "0.1.0-rc",
-  "description": "AdonisJS Ally driver for vk.com",
+  "description": "A driver of AdonisJS Ally for vk.com",
   "main": "build/providers/index.js",
   "files": [
     "build/src",
